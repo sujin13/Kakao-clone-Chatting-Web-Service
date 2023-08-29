@@ -1,4 +1,4 @@
-package com.example.kakao_clone.global.auth;
+package com.example.kakao_clone.global.auth.domain;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
